@@ -1,6 +1,6 @@
 #Programme virer les années
 
-puts "T'es né(e) en quel année ?"
+puts "T'es né(e) en quelle année ?"
 annee = gets.chomp.to_i
 
 nb = 2022 - annee 
